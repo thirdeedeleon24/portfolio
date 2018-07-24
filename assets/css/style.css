@@ -115,6 +115,8 @@ font-family: 'Saira Condensed', sans-serif;
 
 footer {
 	background-color: #f16529;
+	position: absolute;
+	bottom: 0;
 }
 
 p.footer-text  {
