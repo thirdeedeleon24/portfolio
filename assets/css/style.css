@@ -7,7 +7,9 @@ font-family: 'Saira Condensed', sans-serif;
 
 /* GENERAL CSS */
 
-
+.main {
+	min-height: 550px;
+}
 
 .row {
 	margin-right: 0;
